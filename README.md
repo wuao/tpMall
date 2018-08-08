@@ -41,6 +41,6 @@ npm i
  然后开发的时候选择编辑 src下面的文件进行编辑提交代码 不需要提交node_modules 和dist 目录 
  有时候缓存问题可以删除2个目录 重新生成。
  
- https://github.com/wuao/tpMall/master/src/assest/images/test.png
+![](https://github.com/wuao/tpMall/master/src/assets/images/test.png)
  
 
