@@ -58,19 +58,15 @@
 		"debug": true
 	}
 
-	App({
-		data: {
-			name: "999"
-		},
+//	App({
+//		data: {
+//			name: "999"
+//		},
 		/**
 		 * 加载中
 		 */
-		onload: function() {
-			console.log("进入app.vue11");
-		},
-
-		onLaunch: function(option) {},
-		onShow:function(option) {},
-		onHide: function(option) {}
-	});
+//		onload: function() {
+//		},
+// 
+//	});
 </script>

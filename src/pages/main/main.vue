@@ -52,7 +52,6 @@
 		 * 数据请求
 		 */
 		getDate() {
-			console.log(222)
 			let that = this
 			wx.showLoading({})
 			var url = getRequesUrl.gettestData;
@@ -71,7 +70,6 @@
 			}).finally(() => {
 				wx.hideLoading()
 			});
-			console.log(222)
 		},
 
 		onLoad: function(options) {
